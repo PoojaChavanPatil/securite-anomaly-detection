@@ -117,3 +117,6 @@ better model.
 - Only one random seed was used, so the exact numbers could shift a bit on a
   different run.
 - The analysis was conducted on the Monday, Tuesday, and Friday (morning and afternoon) datasets; Wednesday and Thursday data were not included.
+![score distribution](plots/score_distribution.png)
+![per attack heatmap](plots/per_attack_heatmap.png)
+![threshold sweep](plots/threshold_sweep.png)
