@@ -118,8 +118,3 @@ better model.
   different run.
 - The analysis was conducted on the Monday, Tuesday, and Friday (morning and afternoon) datasets; Wednesday and Thursday data were not included.
   
-![Score Distribution](score_distribution.png)
-
-![Per Attack Heatmap](per_attack_heatmap.png)
-
-![Threshold Sweep](threshold_sweep.png)
