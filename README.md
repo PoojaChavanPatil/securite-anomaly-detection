@@ -121,8 +121,11 @@ better model.
 
 ## Results
 
-### Score separation
-![score distribution](score_distribution.png)
-
 ### Threshold Sweep
 ![Threshold sweep](threshold_sweep.png)
+
+### Per-Attack Detection Rate
+![Per-attack heatmap](per_attack_heatmap.png)
+
+### Score separation
+![score distribution](score_distribution.png)
