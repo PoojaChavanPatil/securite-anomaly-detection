@@ -123,20 +123,3 @@ better model.
 
 ### Score separation
 ![score distribution](score_distribution.png)
-
-### Detection rate by attack type
-![per attack heatmap](per_attack_heatmap.png)
-
-### Precision vs recall as threshold changes
-![threshold sweep](threshold_sweep.png)
-
-## Results
-
-### Score separation
-![score distribution](score_distribution.png)
-
-### Detection rate by attack type
-![per attack heatmap](per_attack_heatmap.png)
-
-### Precision vs recall as threshold changes
-![threshold sweep](threshold_sweep.png)
